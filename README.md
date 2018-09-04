@@ -1,6 +1,7 @@
 # my-vue
 # add  by wdq  20180904
 # 第一次增加说明
+# 增加依赖模块
 > first project
 
 ## Build Setup
