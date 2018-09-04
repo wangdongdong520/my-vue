@@ -1,5 +1,5 @@
 # my-vue
-# add  by wdq
+# add  by wdq  20180904
 > first project
 
 ## Build Setup
